@@ -13,6 +13,7 @@
 		CC1E5C911C853E2500B26CB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC1E5C901C853E2500B26CB9 /* Assets.xcassets */; };
 		CC1E5C941C853E2500B26CB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC1E5C921C853E2500B26CB9 /* LaunchScreen.storyboard */; };
 		CC1E5C9C1C86BE1C00B26CB9 /* CardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC1E5C9B1C86BE1C00B26CB9 /* CardsViewController.swift */; };
+		CC1E5C9E1C8750AF00B26CB9 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC1E5C9D1C8750AF00B26CB9 /* Common.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CC1E5C931C853E2500B26CB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC1E5C951C853E2500B26CB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CC1E5C9B1C86BE1C00B26CB9 /* CardsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardsViewController.swift; sourceTree = "<group>"; };
+		CC1E5C9D1C8750AF00B26CB9 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CC1E5C891C853E2500B26CB9 /* AppDelegate.swift */,
 				CC1E5C8B1C853E2500B26CB9 /* ViewController.swift */,
 				CC1E5C8D1C853E2500B26CB9 /* Main.storyboard */,
+				CC1E5C9D1C8750AF00B26CB9 /* Common.swift */,
 				CC1E5C9B1C86BE1C00B26CB9 /* CardsViewController.swift */,
 				CC1E5C901C853E2500B26CB9 /* Assets.xcassets */,
 				CC1E5C921C853E2500B26CB9 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC1E5C9E1C8750AF00B26CB9 /* Common.swift in Sources */,
 				CC1E5C8C1C853E2500B26CB9 /* ViewController.swift in Sources */,
 				CC1E5C8A1C853E2500B26CB9 /* AppDelegate.swift in Sources */,
 				CC1E5C9C1C86BE1C00B26CB9 /* CardsViewController.swift in Sources */,
